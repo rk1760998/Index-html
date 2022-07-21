@@ -1,0 +1,12 @@
+a{
+    color: white !important;
+}
+
+.card{
+    padding: 20px;
+}
+
+div{
+  position: sticky ; 
+  z-index: 1;
+}
